@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-ㅋㅋ
+
+
+## 블로그 주소 (Velog) : ![https://velog.io/@wonjun12](https://velog.io/@wonjun12)
+## 프로젝트 주소 : ![https://github.com/moschelin-app](https://github.com/moschelin-app)
+## 앱 데시보드1 : ![https://github.com/wonjun12/Financial-Fraud-App-Dashboard](https://github.com/wonjun12/Financial-Fraud-App-Dashboard)
+## 앱 데시보드2 : ![https://github.com/wonjun12/Travel-Trend-App-Dashboard](https://github.com/wonjun12/Travel-Trend-App-Dashboard)
