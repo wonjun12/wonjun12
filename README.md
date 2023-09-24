@@ -1,23 +1,45 @@
-### Hi there 👋
+<div>
+  <h2>Language</h2>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-FC4C02?style=flat-square&logo=Java&logoColor=white"/>
+  
+  <br>
+  
+  <h2>Framework</h2>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white"/>
 
-<!--
-**wonjun12/wonjun12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br>
 
-Here are some ideas to get you started:
+  <h2>Library</h2>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br>
+
+  <h2>IDE</h2>
+
+  <br>
+
+  <h2>API</h2>
+
+  <br>
+  
+  <h2>AWS</h2>
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=AWS Lambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=flat-square&logo=Amazon API Gateway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon CloudWatch-FF4F8B?style=flat-square&logo=Amazon CloudWatch&logoColor=white"/>
+  
+</div>
 
 
 
 ### 블로그 주소 (Velog) : [https://velog.io/@wonjun12](https://velog.io/@wonjun12)
-### 프로젝트 주소 : [https://github.com/moschelin-app](https://github.com/moschelin-app)
-### 앱 데시보드1 : [https://github.com/wonjun12/Financial-Fraud-App-Dashboard](https://github.com/wonjun12/Financial-Fraud-App-Dashboard)
-### 앱 데시보드2 : [https://github.com/wonjun12/Travel-Trend-App-Dashboard](https://github.com/wonjun12/Travel-Trend-App-Dashboard)
